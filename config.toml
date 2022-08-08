@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Citizen Connect Amplification Plan"
+title = "Citizen Connect Amplification Plan 2.0"
 author = "Kristina Becvar"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Bridge Alliance Education Fund"
-  orgLocal = "Anywhere"
+  orgLocal = "PA"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
@@ -115,19 +115,19 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Primer"
-    title = "Primer"
+    name = "Resources"
+    title = "Resources"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Project"
-    title = "Project"
+    name = "Analysis"
+    title = "Analysis"
     url = "/project/"
     weight = 3
   [[menu.header]]
     name = "Plan"
     title = "Plan"
-    url = "/collection/"
+    url = "/talk/"
     weight = 4
 
     
