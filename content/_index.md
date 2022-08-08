@@ -2,19 +2,19 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: The goal of the member amplification program is to expand engagement by Americans with 
+  Citizen Connect members by featuring their most compelling and timely content. This will be accomplished
+  by regularly amplifying select members and their content via our social media assets in coordination with
+  the social media teams from the Citizen Connect member community. This project contains background and
+  proposals to accomplish this goal.
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: member Amplification Program 2.0
 text_align_left: false
-title: Hugo Apéro
+title: Citizen Connect
 type: home
 ---
 
