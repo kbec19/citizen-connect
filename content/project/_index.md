@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /project/
-description: Proposed Next Steps
+description: 
 layout: list-grid
 show_author_byline: false
 show_button_links: false
