@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Citizen Connect Background
+  Citizen Connect Project
 ---
 
 <!-- this is a subheadline -->

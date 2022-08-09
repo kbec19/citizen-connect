@@ -2,17 +2,14 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: The goal of the member amplification program is to expand engagement by Americans with 
-  Citizen Connect members by featuring their most compelling and timely content. This will be accomplished
-  by regularly amplifying select members and their content via our social media assets in coordination with
-  the social media teams from the Citizen Connect member community. This project contains background and
-  proposals to accomplish this goal.
+description: The objective of this project is to help provide the Bridge Alliance Education Fund with a   solid  foundation to begin the next phase of their work in amplifying its’ member voices across         initiatives. One of the newest initiatives, Citizen Connect, has been operating for one year and is     ready to scale their presence.
+
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Member Amplification Program 2.0
+subtitle: Member Amplification Project
 text_align_left: false
 title: Citizen Connect
 type: home

@@ -1,14 +1,11 @@
 ---
 ## Configure page content in wide column
-title: "What is Citizen Connect?"  # leave blank to exclude
+title: "Objective and Goal"  # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
-use_featured: false # if false, use most recent by date
+use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
-intro: |
-  Citizen Connect is a non-partisan platform dedicated to one thing only – helping Americans find ways to heal our political divides and strengthen our democracy. Citizen Connect believes the best way to do that is to make it easy to find the civic organizations and events that matter most to each person.
-  
-  Citizen Connect was founded by people from all walks of life, political parties, races, identities, and religions. What they have in common is a conviction that America is stronger if we, the people, work together. It isn’t about agreeing on everything; it’s about finding what we can agree on and making it happen. 
+intro:   Using the analysis of social media metrics and the science of social media behavior, we will     present a strategy that will allow Citizen Connect opportunities to amplify members’ messages           more effectively through social media and internet search. The analysis will help Citizen Connect in    working toward their overarching goals of serving as a hub of “findability” for civic renewal           organizations and a gateway to civic renewal organizations for citizens looking for some resources for  “sensemaking” and outlets for involvement in their local, regional, and national civic spheres.
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
