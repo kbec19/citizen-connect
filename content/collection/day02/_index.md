@@ -14,4 +14,4 @@ title: Industry Research
 weight: 3
 ---
 
-If you choose `layout: single-series`, you can add markdown text here and it will be the landing page for this nested subsection.
+Landing

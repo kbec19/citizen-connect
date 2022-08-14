@@ -14,4 +14,4 @@ title: Baseline Research
 weight: 2
 ---
 
-If you choose `layout: single-series`, you can add markdown text here and it will be the landing page for this nested subsection.
+Landing Page

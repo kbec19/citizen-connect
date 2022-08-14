@@ -1,33 +1,25 @@
 ---
-date: "2021-01-01"
+date: "2022-08-13"
 draft: false
-excerpt: You can share information about yourself with the community on GitHub by
-  creating a profile README. GitHub shows your profile README at the top of your profile
-  page.
+excerpt: The Google Data Studio provides a good snapshot of the day to day statistics and overview of the website performance. 
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: Put your best foot forward, first.
-title: A GitHub profile
+  name: Google Data Studio
+  url: https://datastudio.google.com/s/rhFFu-FqwpI
+subtitle: 
+title: Google Analytics
 weight: 1
 ---
 
-## Profile
+## Where Visitors Are Coming From
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Discuss
 
-## Pin projects to profile
+## Where Visitors Are Going
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Discuss
 
-## Profile README
+## What content Visitors Want
 
-This is new! Let's do it:
-
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+Discuss
