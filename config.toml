@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "citizenconnect3"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -114,21 +114,22 @@ enableEmoji = true
     title = "About Citizen Connect"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Analysis"
-    title = "Analysis"
-    url = "/blog/"
+   [[menu.header]]
+    name = "Research"
+    title = "Research"
+    url = "/collection/"
     weight = 2
   [[menu.header]]
-    name = "Plan"
-    title = "Plan"
+    name = "Opportunities"
+    title = "Opportunities"
     url = "/project/"
     weight = 3
-   [[menu.header]]
+  [[menu.header]]
     name = "Resources"
     title = "Resources"
-    url = "/collection/"
+    url = "/blog/"
     weight = 4
+
 
     
   # Configure footer  

@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Citizen Connect Project
+  Citizen Connect Member Amplification Project
 ---
 
 <!-- this is a subheadline -->
