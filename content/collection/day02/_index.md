@@ -1,6 +1,6 @@
 ---
-author: Alison Hill
-date: "2021-01-26"
+author: Kristina Becvar
+date: "2022-08-13"
 description: |
   day two
 excerpt: null
@@ -9,8 +9,8 @@ publishDate: "2021-01-22"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: All about Day 02 of 'Introduce Yourself Online'.
-title: Day 02
+subtitle: Political social media content trends
+title: Industry Research
 weight: 3
 ---
 
