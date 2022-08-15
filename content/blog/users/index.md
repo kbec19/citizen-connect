@@ -10,13 +10,10 @@ title: User Journey
 ---
 
 
-## User Journey
+## User Journey - Most Frequent Landing Page
 
-users
+![Top Event](top-event.png)
 
+## Alternative Journey - America Talks Landing Page
 
-## Alternative Journies
-
-journies
-
-
+![America Talks](america-talks.png)
