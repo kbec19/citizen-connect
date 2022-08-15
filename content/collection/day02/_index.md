@@ -10,7 +10,7 @@ show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 subtitle: Political social media content trends
-title: Industry Research
+title: Best Practices Research
 weight: 3
 ---
 
