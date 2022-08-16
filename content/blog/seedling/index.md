@@ -70,6 +70,16 @@ Where visitors enter your website
 
 When a user clicks through to your website from another website
 
+### Source vs Medium
+
+#### Source
+
+Parameter for evaluating how people find your website, tells you where message was seen
+
+#### Medium
+
+Parameter for evaluating how people find your website, tells you how message was communicated
+
 
 # Social Media Metric Guide
 

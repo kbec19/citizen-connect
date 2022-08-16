@@ -9,7 +9,7 @@ link_list_label: "Project Resources" # bookmarks, elsewhere, etc.
 link_list:
 - name: Citizen Connect Home
   url: https://citizenconnect.us/
-- name: Research Agreement and Documentation
+- name: Project Agreement
   url: https://docs.google.com/document/d/1b3jWweGtP__W1inV1VmvqB6mGzTmggl1xwjr-uI5zh4/edit?usp=sharing
 - name: Google Data Studio
   url: https://datastudio.google.com/s/klbxaw-14T8

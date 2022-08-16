@@ -11,7 +11,7 @@ title: Google Analytics Dashboard
 
 ## Dashboard
 
-Link to the dashboard
+### [Link to the Google Data Studio Dashboard](https://datastudio.google.com/s/vx5vZyGN7Ws)
 
 
 

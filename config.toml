@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://citizen-connect.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Citizen Connect Amplification Plan 2.0"
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["Analysis"]
+  mainSections = ["Research"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
