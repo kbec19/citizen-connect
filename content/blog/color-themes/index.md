@@ -12,7 +12,7 @@ title: Communications Plan for Citizen Connect
 
 ## Bridge Alliance Education Fund Communications Plan
 
-Explain the plan
+In the absence of a full-time Director of Communications, there is no overarching communications plan keeping track of cross-initiative communications. One important opportunity here is to expland the staffing to include this important position.
 
 ## Social Media Plan
 
