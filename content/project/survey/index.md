@@ -1,34 +1,46 @@
 ---
 author: Kristina Becvar
-categories:
-- plans
-- next steps
-- options
-date: "2022-08-02"
+date: "2022-08-13"
 draft: false
 excerpt: In order to create an accurate plan for amplifying member messages, we need accurate data on our target demographic. The best way to accomplish this is to put a survey out in the public sphere.
 featured: true
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: YouGov Sample Survey Site
-  url: https://g4-us.yougov.com/vbzZG4hBNpwDmh
 subtitle: ""
 tags:
-- survey
-title: YouGov Survey
+title: Social Surveys
 ---
 
-### Putting a YouGov survey in action to understand a sample of American citizens and how they interact with our messaging and offerings will help us to better understand how to communicate our mission.
+### Putting a survey in action to understand a sample of American citizens and how they interact with Citizen Connect messaging and offerings will help better understand how to communicate the organizational mission and amplify member initiatives.
 
 ---
 
-We suggest conducting a survey through YouGov, a firm that is used by UMASS Amherst Department of Social and Behavioral Sciences, and has conducted polls for a variety of clients, including the Economist and CBS News. YouGov relies on cutting edge statistical techniques to recruit survey respondents online and produce a representative sample of the target population.
+#### Options
+
+##### YouGov
+
+One option is conducting a survey through YouGov, a firm that is used by UMASS Amherst Department of Social and Behavioral Sciences, and has conducted polls for a variety of clients, including the Economist and CBS News. YouGov relies on cutting edge statistical techniques to recruit survey respondents online and produce a representative sample of the target population.
 
 In 2018, Nate Silver of Fivethirtyeight.com rated YouGov among the top ten of pollsters to trust during the midterm elections. According to Nate Cohn of the New York Times, while the average error of online polls during the 2018 midterm election was 5.3 percentage points, YouGov posted an industry best average of 2.5 percentage points in their 2018 midterm election polls.
 
-The YouGov and UMASS Poll produced one of the most accurate polls in the closing days of the 2016 Massachusetts general election. The final poll conducted in Massachusetts showed that 54% of the state’s residents would support the legalization of marijuana in the state (Question 4).  On Election Day, Question 4 passed 54% to 46%.  
+The YouGov and UMASS Poll produced one of the most accurate polls in the closing days of the 2016 Massachusetts general election. The final poll conducted in Massachusetts showed that 54% of the state’s residents would support the legalization of marijuana in the state (Question 4).  On Election Day, Question 4 passed 54% to 46%. 
+
+##### MTurk/Amazon
+
+Another option is to conduct a survey using Qualtrics survey design software and implemented through MTurk. MTurk is a service through Amazon for utilizing individuals they have identified to complete work, including survey work.
+
+##### Ipsos/Knowledge Panels
+
+Info on Ipsos
+
+##### Other Alternatives - Survey software with audience survey options
+
+Google Surveys
+
+Survey Monkey
+
+
+
+
 
 
 
