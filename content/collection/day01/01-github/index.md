@@ -14,12 +14,35 @@ weight: 1
 
 ## Where Visitors Are Coming From
 
-Discuss
+![User Acquisition by Default](user-acq-by-default.jpg)
 
-## Where Visitors Are Going
+### Breaking Down the 'Other'
 
-Discuss
+![Other Acquisitions](other-acq.jpg)
 
-## What content Visitors Want
+## What Visitors Are Looking At
 
-Discuss
+![User Acquisition by Category](top-100-direct-acq.jpg)
+
+## Social Media Acquisitions
+
+![Social Networks](social-network-acq.jpg)
+
+## Acquisitions by Referral
+
+![Referrals](referrals-acq.jpg)
+
+## Where do Email Acquisitions Land?
+
+![Email Acquisitions](email-acq-landing.jpg)
+
+## Profile of Bounce Rate
+
+![Bounce Rate by Landing Page](bounce-default.jpg)
+
+## Website User Behavior Flow
+
+![Behavior Flow](behavior-flow.png)
+
+
+

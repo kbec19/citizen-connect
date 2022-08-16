@@ -15,7 +15,6 @@ Currently on the radar:
 + Live Summary
 + Guides
 
-
 ## Podcast
 
 Podcast Script
