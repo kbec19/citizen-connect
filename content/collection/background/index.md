@@ -25,7 +25,7 @@ From the report:
 
 After weeks of research into why there was such a significant amount of traffic to a particular event in the first two weeks of June, it was a relief to understand where this was coming from. Unfortunately, Google Analytics recorded this traffic as "direct", which was disproportionately high in our Google Analytics research.
 
-It was also clear from the body of the top-line summary that the citizen Connect website does NOT allow for the Google Analytics tracking pixel to be embedded into the events or on demand content being tracked. This explains the disconnect we have been trying to explain.
+It was also clear from the body of the top-line summary that the Citizen Connect website does NOT allow for the Google Analytics tracking pixel to be embedded into the events or on demand content being tracked. This explains the disconnect we have been trying to explain.
 
 
 ## A/B Testing as it Relates to New Research
