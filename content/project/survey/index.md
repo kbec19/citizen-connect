@@ -14,6 +14,7 @@ title: Social Surveys
 
 ---
 
+
 ## Background
 
 ### A large amount of Americans are looking for a different political option than the polarized 2-party system
@@ -59,8 +60,14 @@ KnowledgePanel is the oldest and largest probability-based online panel in the U
 
 ### In addition, the "strength of weak ties" theories have been shown in recent studies to need re-examining because of the way the social media has changed the ways people connect and identify with social groups. (Krämer, et al, 2021) There is reason to hope that messages among homogenous groups can increase knowledge and reduce polarization (Becker, et al, 2017). There is also research to indicate that exposing people to opposing views on social media increase polarization. (Bail, at al, 2018) But the reality is likely more nuanced, and dependent on our specific audience, topics, and social timing (Wiedermann, et al, 2020)
 
+---
+
 ## There is no clear, established, path to understanding social media behavior, so targeted research to support Citizen Connect goals is an important step in future growth.
 
+
+![HP Network](Network.png)
+
+## One thing that is clear is that there is no linear solution to citizen engagement. It is a complex network that will take time and testing to get right.([Link to HP Foundation Network Research, "The Madison Initiative"](https://hewlettfoundation.kumu.io/hewlett-foundations-the-madison-initiative))
 
 
 

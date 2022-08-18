@@ -3,7 +3,7 @@ author:
 categories:
 date: "2022-08-13"
 draft: false
-excerpt: Citizen Connect has begun exploring ideas for content creation. This resource includes those plans and is a space for futuure plans.
+excerpt: Citizen Connect has begun exploring ideas for content creation. This resource includes those plans and is a space for future plans.
 layout: single
 subtitle: ""
 title: Content Generation Plans
