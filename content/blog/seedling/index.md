@@ -12,6 +12,8 @@ title: Definitions
 
 # Website Analytics Guide
 
+![Link to Google Document Version of Analytics Guide](https://docs.google.com/document/d/1sQ35XeULMe4NfmIyrR82yty6DYm0XxGNeaKeG88YvYw/edit?usp=sharing)
+
 ## Acquisition Metrics
 
 How do people get to your website?

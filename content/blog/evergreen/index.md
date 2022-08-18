@@ -3,10 +3,10 @@ author:
 categories:
 date: "2022-08-13"
 draft: false
-excerpt: Auto-updating dashboard using Google Analytics data, presented through Google Data Studio.
+excerpt: Monthly updates of the holistic analysis of the member amplification plan progress
 layout: single
 subtitle: ""
-title: Google Analytics Dashboard
+title: Social Media & Website Analytics
 ---
 
 ## Dashboard

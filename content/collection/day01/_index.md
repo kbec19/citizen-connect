@@ -2,7 +2,7 @@
 date: "2022-08-13"
 draft: false
 excerpt: 
-subtitle: 
+subtitle: Independent analysis of website data from Google
 title: Google Analytics
 weight: 2
 ---

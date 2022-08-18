@@ -3,18 +3,16 @@ author:
 categories:
 date: "2022-08-13"
 draft: false
-excerpt: Current standards and news on social media and website trends and algorithms.
+excerpt: Current Bridge Alliance Edcation Fund and Citizen Connect Internal Standards
 layout: single
 subtitle: ""
 tags:
-title: Best Practices
+title: Internal Processes
 ---
 
 ## Bridge Alliance Education Fund Guiding Documents
 
 #### [Link to Bridge Alliance Education Fund Social Media Workflow Document](https://docs.google.com/document/d/1_657SsHyd_GfF06luk8jGJKRjT6HCrX4u8l6Mjkb5Ho/edit?usp=sharing)
-
-#### [Link to Bridge Alliance Education Fund Update Document](https://docs.google.com/document/d/1vN0pgIGjEbbDas9Q0BUnFOUXf7Vyl0DPSB2zcBdM850/edit?usp=sharing)
 
 
 
