@@ -14,7 +14,7 @@ headline: |
 
 ### Goals and Objectives
 
-Using the research established by Citizen Connect, independent research, and the study of   social media behavior, we are presenting opportunities that will allow Citizen Connect to amplify members’ messages more effectively. In presenting this information in a living and evolving static site, we hope that this initial presentation can evolve into a hub for benchmarks and key performance indicators for Citizen Connect to utilize going forward. 
+Using the research established by Citizen Connect, independent research, and the study of social media network behavior, we are presenting opportunities that will allow Citizen Connect to amplify members’ messages more effectively. In presenting this information in a living and evolving static site, we hope that this initial presentation can evolve into a hub for benchmarks and key performance indicators for Citizen Connect to utilize going forward. 
 
 Our research has culminated in a set of opportunities that match the goals identified through the process of creating a project agreement, conducting stakeholder interviews, and data-driven insights. We believe this analysis will help Citizen Connect in working toward the overarching goals identified of serving as both a hub of “findability” for civic renewal organizations and a gateway to civic renewal organizations for citizens looking for some resources for “sensemaking” and outlets for involvement in their local, regional, and national civic spheres. 
 

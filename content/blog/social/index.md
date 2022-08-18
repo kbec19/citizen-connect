@@ -29,7 +29,7 @@ Already in discussion for this - will be an important addition to creating uniqu
 Potential opportunity to discuss the weekly events, content, and/or members in a quick, 10-minute or less 'summary' live streaming on one platform and replaying as a reel/story/video on the others. Add the ability to click links in the comments and engage in a different way to get some new users interested in the site.
 
 
-## Engaging Content
+## Animated Content
 
 Having a consistent branding can be helpful, but it can also leave social media users in particular feeling like all of the images they see on the page look the same.
 
