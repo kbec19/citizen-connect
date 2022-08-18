@@ -1,16 +1,15 @@
 ---
 author: Kristina Becvar
 date: "2022-08-13"
-description: |
-  day two
+description:
 excerpt: null
 layout: single-series
-publishDate: "2021-01-22"
+publishDate: "2022-08-13"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: Political social media content trends
-title: Best Practices Research
+subtitle: Reports from Sprout Social and Meta Business
+title: Social Media Analysis
 weight: 3
 ---
 

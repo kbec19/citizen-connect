@@ -3,18 +3,22 @@ author:
 categories:
 date: "2022-08-13"
 draft: false
-excerpt: Analysis of the roles of all stakeholders, as well as the staff and intern workflow and future plans.
+excerpt: Current standards and news on social media and website trends and algorithms.
 layout: single
 subtitle: ""
 tags:
-title: Communications Plan for Citizen Connect
+title: Best Practices
 ---
 
-## Bridge Alliance Education Fund Communications Plan
+## Bridge Alliance Education Fund Guiding Documents
 
-In the absence of a full-time Director of Communications, there is no overarching communications plan keeping track of cross-initiative communications. One important opportunity here is to expland the staffing to include this important position.
+#### [Link to Bridge Alliance Education Fund Social Media Workflow Document](https://docs.google.com/document/d/1_657SsHyd_GfF06luk8jGJKRjT6HCrX4u8l6Mjkb5Ho/edit?usp=sharing)
 
-## Social Media Plan
+#### [Link to Bridge Alliance Education Fund Update Document](https://docs.google.com/document/d/1vN0pgIGjEbbDas9Q0BUnFOUXf7Vyl0DPSB2zcBdM850/edit?usp=sharing)
+
+
+
+## Current Citizen Connect Social Media Plan
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
