@@ -11,8 +11,8 @@ link_list:
   url: https://citizenconnect.us/
 - name: Project Agreement
   url: https://docs.google.com/document/d/1Ym9qbFSZ92O6FSc504u2cNpII5opQqKU/edit?usp=sharing&ouid=114389610606514960086&rtpof=true&sd=true
-- name: Google Data Studio
-  url: https://datastudio.google.com/s/klbxaw-14T8
+- name: GitHub Repository
+  url: https://github.com/kbec19/citizen-connect
 ---
 
 ** index doesn't contain a body, just front matter above.

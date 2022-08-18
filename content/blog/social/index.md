@@ -9,6 +9,10 @@ subtitle: ""
 title: Content Generation Plans
 ---
 
+### Content generation is essential for expanding the social media and digital reach of the Citizen Connect platform.
+
+---
+
 # Currently on the Radar:
 
 + Week/Weekend Wrap-Up
