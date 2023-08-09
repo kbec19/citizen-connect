@@ -9,7 +9,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Member Audience Development
+subtitle: Audience Development
 text_align_left: false
 title: Citizen Connect
 type: home
