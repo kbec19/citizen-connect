@@ -2,24 +2,24 @@
 date: "2022-08-13"
 draft: false
 excerpt: 
-subtitle: Independent analysis of website data from Google
+subtitle: Analysis of website data from Google
 title: Google Analytics
 weight: 2
 ---
 
 ## Finding Citizen Connect
 
+Using Google Analytics to look at the past patterns from July 2022 through July 2023, these are the statistics on audience development for the Citizen Connect site during that time period.
+
 ### Search Terms
 
-![Search Terms](search-terms.png)
+<div class="flourish-embed flourish-word-cloud" data-src="visualisation/14689457"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The frequency of search terms used on Google to find citizen Connect are represented here size in a word cloud.
 
-Our analytic research was primarily digging deep into the Google Analytics data as well as the Social Media analytics provided by each of the platforms and the social CRM tool Sprout Social.
+## How Users Are Gained
 
-## Where Visitors Are Coming From
-
-![User Acquisition by Default](user-acq-by-default.jpg)
+<div class="flourish-embed flourish-chart" data-src="visualisation/14689169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Analysis
 
@@ -28,9 +28,9 @@ In general, this can happen because that 'direct' category is Google’s "catch-
 
 As we learned from the A/B pilot testing conducted prior to our project, this is a known issue with Citizen Connect's website, so the tracking cannot be fully analyzed. However, since we know from that report that this is the reason for the high 'direct' traffic, we are able to understand the reason for the anomoly for this time period.
 
-### Breaking Down the 'Other'
+### Geographical Distribution of Users
 
-![Other Acquisitions](other-acq.jpg)
+<div class="flourish-embed flourish-map" data-src="visualisation/14687959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Analysis
 
