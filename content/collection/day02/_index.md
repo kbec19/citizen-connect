@@ -2,8 +2,8 @@
 date: "2022-08-13"
 draft: false
 excerpt: 
-subtitle: Reports from Sprout Social
-title: Social Media Analysis
+subtitle: Current Social Media Analysis
+title: Social Media Footprint
 weight: 3
 ---
 
