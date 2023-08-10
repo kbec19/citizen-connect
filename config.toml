@@ -104,8 +104,8 @@ enableEmoji = true
     url = "/about/"
     weight = 1
    [[menu.header]]
-    name = "Research"
-    title = "Research"
+    name = "Analytics"
+    title = "Analytics"
     url = "/collection/"
     weight = 2
   [[menu.header]]
