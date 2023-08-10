@@ -21,26 +21,15 @@ The frequency of search terms used on Google to find citizen Connect are represe
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14689169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### Analysis
-
-Notably, the 'direct' category is significantly higher.
-In general, this can happen because that 'direct' category is Google’s "catch-all". If a session can’t be attributed, then Google Analytics will add it to 'direct'.
-
-As we learned from the A/B pilot testing conducted prior to our project, this is a known issue with Citizen Connect's website, so the tracking cannot be fully analyzed. However, since we know from that report that this is the reason for the high 'direct' traffic, we are able to understand the reason for the anomoly for this time period.
 
 ### Geographical Distribution of Users
 
 <div class="flourish-embed flourish-map" data-src="visualisation/14687959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### Analysis
-
-It is noteworthy that the largest category of 'other' from the acquisition report indicates traffic from Facebook. It is not clear where this traffic is originating, since traffic from Facebook should be included in the Social Media category. This is another Citizen Connect tracking question to tackle with the website provider.
-
-Another noteable piece of this analysis is that there are two different indicators with different spellings of 'fulcrum', with one spelled 'fullcrum'. This is another piece of tagging that should be addressed going forward for clarity.
 
 ## Social Media Acquisitions
 
-![Social Networks](social-network-acq.jpg)
+
 
 #### Analysis
 
@@ -50,7 +39,7 @@ The presence on LinkedIn is small, so the engagement there is reasonable to expe
 
 ## Acquisitions by Referral
 
-![Referrals](referrals-acq.jpg)
+
 
 #### Analysis
 
@@ -60,7 +49,7 @@ The presence of the Fulcrum as a referral source here in addition to in the 'oth
 
 ## Where do Email Acquisitions Land?
 
-![Email Acquisitions](email-acq-landing.jpg)
+
 
 #### Analysis
 
@@ -68,7 +57,7 @@ This indicator is of the acquisitions coming from links embedded in emails, like
 
 ## Profile of Bounce Rate
 
-![Bounce Rate by Landing Page](bounce-default.jpg)
+
 
 #### Analysis
 
@@ -76,7 +65,7 @@ A 'bounce' is when someone lands somewhere on the site and leaves without clicki
 
 ## Website User Behavior Flow
 
-![Behavior Flow](behavior-flow.png)
+
 
 #### Analysis
 
