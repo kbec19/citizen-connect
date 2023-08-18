@@ -3,18 +3,18 @@ author:
 categories:
 date: "2022-08-13"
 draft: false
-excerpt: Living and evolving documentation summarizing the ongoing content amplification plan.
+excerpt: Living and evolving documentation summarizing the ongoing internal processes for delivering servicres to member organizations and citizens.
 layout: single
 subtitle: ""
 tags:
-title: Content Amplification Plan Documentation
+title: Internal Process Documentation
 ---
 
-# Content Amplification Plan
+# Templates
 
-#### [Link to working draft of Content Amplification Plan](https://docs.google.com/document/d/183hMJ2fmMcvHe5TRjYFoIWMBNwxxDuf4qA06CnLzfCU/edit?usp=sharing)
+#### [Link to email template folder](https://drive.google.com/drive/folders/1ajmiBLwdlQu0Kcr6FwULew1YyJZIhHio?usp=drive_link)
 
-#### [Link to Bridge Alliance social media footprint document](https://docs.google.com/spreadsheets/d/1UStCHtxzzJc1Vk0SPtycWBpNBtNYfKwjs7fbPZ5L2oE/edit?usp=sharing)
+#### [Link to operations folder](https://drive.google.com/drive/folders/1syHSB2cm_y1Y35F5DnXJctNU8T3SJKX_?usp=drive_link)
 
 
 

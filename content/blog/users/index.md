@@ -6,7 +6,7 @@ draft: false
 excerpt: Following common journeys a Citizen Connect website visitor takes when based on the data from the site analysis.
 subtitle: ""
 tags:
-title: User Journeys
+title: User Journeys (2022)
 ---
 
 
