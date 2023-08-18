@@ -30,12 +30,6 @@ The frequency of search terms used on Google to find citizen Connect are represe
 The highest number of users are gained through paid search, with the second being direct acquisitions. The indicator is of the acquisitions coming from links embedded in emails, likely the Citizen Connect newsletter as the primary driver. 
 
 
-### Geographical Distribution of Users
-
-<div class="flourish-embed flourish-map" data-src="visualisation/14687959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-
 ## Social Media Acquisitions
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14767792"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -44,6 +38,13 @@ The highest number of users are gained through paid search, with the second bein
 #### Analysis
 
 Clearly, Facebook is the largest driver of traffic to Citizen Connect among social media channels. The presence on LinkedIn is small, so the engagement there is reasonable to expect. The Instagram engagement is reasonable as well. In addition to having a small presence in followers on Instagram, the social media plan has not included a linktree or similar traffic management tool. Links in Instagram posts are not clickable, but a linktree directing traffic to the event/content being promoted has helped drive this engagement higher since being implemented in fall 2022.
+
+
+
+### Geographical Distribution of Users
+
+<div class="flourish-embed flourish-map" data-src="visualisation/14687959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 
 
