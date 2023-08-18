@@ -1,7 +1,7 @@
 baseURL = "https://citizen-connect.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Citizen Connect Amplification Plan 2.0"
+title = "Citizen Connect Audience Development Plan"
 author = "Kristina Becvar"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""

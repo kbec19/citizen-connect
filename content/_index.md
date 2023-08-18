@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: This area will be updated.
+description: Analytics from the first two years of Citizen Connect and opportunities to take it through the future.
 
 image_left: true
 images:

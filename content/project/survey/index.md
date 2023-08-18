@@ -2,12 +2,12 @@
 author: Kristina Becvar
 date: "2022-08-13"
 draft: false
-excerpt: In order to create an accurate plan for amplifying member messages, we need accurate data on our target demographic. The best way to accomplish this is to put a survey out in the public sphere.
+excerpt: ""
 featured: true
 layout: single
 subtitle: ""
 tags:
-title: Social Surveys
+title: Survey Project
 ---
 
 ### Putting a survey in action to understand a sample of American citizens and how they interact with Citizen Connect messaging and offerings will help better understand how to communicate the organizational mission and amplify member initiatives.

@@ -1,16 +1,17 @@
 ---
 date: "2022-08-13"
 draft: false
-excerpt: Research conducted by other parties on Citizen Connect media amplification objectives
+excerpt: Research conducted by Cambria Findley-Grubb on Citizen Connect media amplification objectives
 subtitle: ""
-title: Prior Research
+title: 2021 Messaging Research
 weight: 1
 ---
 
 ## A/B Message Testing for Social Media
 
-During the time period being researched, Citizen Connect conducted an A/B testing pilot with different types of ad imagery that directed social media users to 2 events and 2 pieces of on-demand content on the Citizen Connect platform. Within the topline summary provided to us as part of this project, we note the final portion of the summary indicating the top insights.
+During the time period being researched in 2021, Citizen Connect conducted an A/B testing pilot with different types of ad imagery that directed social media users to 2 events and 2 pieces of on-demand content on the Citizen Connect platform. From the topline summary, these are the notes from the final portion of the summary indicating the top insights.
 
+[Link to Topline Summary Report](https://docs.google.com/document/d/17xrCSjPDp-1wwqPPBXP8kprXymZMUY1m/edit?usp=sharing&ouid=109140489664263918222&rtpof=true&sd=true)
 
 ### Top Insights
 

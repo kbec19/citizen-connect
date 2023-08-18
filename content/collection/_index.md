@@ -12,7 +12,7 @@ cascade:
     text_link_label: "GitHub Project Repository"
     text_link_url: "https://github.com/kbec19/citizen-connect"
     text_series_label: Outline
-    title: Research Summary
+    title: Analytics Summary
 description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
   to be read in sequence. This section is like a blog series, \nminus the blog.\n"
 layout: list-sidebar

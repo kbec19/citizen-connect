@@ -2,12 +2,10 @@
 date: "2022-08-13"
 draft: false
 excerpt: 
-subtitle: 2022 Baseline Social Media Analysis
-title: 2022 Q2 Social Media Analysis
+subtitle: Current Social Media Analysis
+title: July 2022 - July 2023 Social Media Analysis
 weight: 3
 ---
-
-Statistics from the baseline period of Q2 2022
 
 ## 2nd Quarter Social Media Performance
 
